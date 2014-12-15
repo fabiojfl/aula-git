@@ -2,6 +2,6 @@ aula-git
 ========
 testando
 
-# This is an <h1> tag
-## This is an <h2> tag
+#<h1> h1 </h1>
+## <h2> h2 </h2>
 ###### This is an <h6> tag
